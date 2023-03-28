@@ -1,0 +1,11 @@
+.texto-centrado{
+    text-align: center;
+}
+body{
+    background-color: cadetblue;
+}
+/* agregar font  */
+
+p{
+    background-color: burlywood;
+}
